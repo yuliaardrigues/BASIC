@@ -10,7 +10,7 @@ $tipo = 'Video';
 //if ($tipo == 'Video'){
     //echo 'exibindo um Video';}
 
-switch($tipo){
+switch ($tipo) {
     case 'Foto':
         echo 'Exibindo FOTO';
          break;
