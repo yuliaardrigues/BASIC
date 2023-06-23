@@ -1,4 +1,5 @@
 <?php
+
 $lista =[
     'nome' => 'Boni',
     'idade' => 90,
